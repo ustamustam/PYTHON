@@ -1,0 +1,86 @@
+Become a Certified Cloud Security Professional (CCSP) Kaynak <https://www.linkedin.com/learning/paths/become-a-certified-cloud-security-professional-ccsp>
+Prepare for the Certified Information Systems Security Professional (CISSP) Exam Kaynak<https://www.linkedin.com/learning/paths/prepare-for-the-certified-information-systems-security-professional-cissp-exam>
+Prepare for the CompTIA Cloud+ (CV0-002) Certification Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-comptia-cloud-plus-cv0-002-certification>
+Become a CompTIA Security+ Certified Security Professional Kaynak <https://www.linkedin.com/learning/paths/become-a-comptia-security-plus-certified-security-professional>
+Become a CompTIA Cybersecurity Analyst (CySA+ CS0-002) Kaynak <https://www.linkedin.com/learning/paths/become-a-comptia-cybersecurity-analyst-cysa-plus-cs0-002>
+Become a CompTIA Certified Penetration Tester (PenTest+) Kaynak <https://www.linkedin.com/learning/paths/become-a-comptia-certified-penetration-tester-pentest-plus>
+Become a Cloud Developer Kaynak <https://www.linkedin.com/learning/paths/become-a-cloud-developer>
+Become an Azure Developer Kaynak <https://www.linkedin.com/learning/paths/become-an-azure-developer>
+Prepare for Microsoft Azure Architect Technologies Certification (AZ-300) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-microsoft-azure-architect-technologies-certification-az-300>
+Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-microsoft-azure-fundamentals-exam-az-900>
+Prepare for the AWS Certified Solutions Architect (Associate) Exam (SAA-C01) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-solutions-architect-associate-exam-saa-c01>
+Prepare for the AWS Certified Solutions Architect - Associate Exam (SAA-C02) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-solutions-architect-associate-exam-saa-c02>
+Prepare for the AZ-203 Developing Solutions for Microsoft Azure Exam Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-az-203-developing-solutions-for-microsoft-azure-exam>
+Prepare for Microsoft Azure Administrator Certification (AZ-103) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-microsoft-azure-administrator-certification-az-103>
+Prepare for the Microsoft Azure Administrator Exam (AZ-104) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-microsoft-azure-administrator-exam-az-104>
+Prepare for the Developing Solutions in Microsoft Azure Exam (AZ-204) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-developing-solutions-in-microsoft-azure-exam-az-204>
+Prepare for AWS Solutions Architect – Professional Certification Kaynak <https://www.linkedin.com/learning/paths/prepare-for-aws-solutions-architect-professional-certification>
+Prepare for the Designing and Implementing Microsoft DevOps Solutions Exam (AZ-400) Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-designing-and-implementing-microsoft-devops-solutions-exam-az-400>
+Become an Azure Security Engineer Kaynak <https://www.linkedin.com/learning/paths/become-an-azure-security-engineer>
+Become an Azure Administrator Kaynak <https://www.linkedin.com/learning/paths/become-an-azure-administrator>
+Advance Your Skills as an Azure Administrator Kaynak <https://www.linkedin.com/learning/paths/advance-your-skills-as-an-azure-administrator>
+Stay Ahead in Azure Development Kaynak <https://www.linkedin.com/learning/paths/stay-ahead-in-azure-development>
+Build Your Knowledge of Cloud Administration  Kaynak <https://www.linkedin.com/learning/paths/build-your-knowledge-of-cloud-administration>
+Advance Your Skills with Azure Active Directory (Azure AD) Kaynak <https://www.linkedin.com/learning/paths/advance-your-skills-with-azure-active-directory-azure-ad>
+ Prepare for the AWS Certified Cloud Practitioner Exam Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-cloud-practitioner-exam>
+Prepare for AWS Solutions Architect – Professional Certification  Kaynak <https://www.linkedin.com/learning/paths/prepare-for-aws-solutions-architect-professional-certification>
+Prepare for the AWS Certified Developer Associate Exam Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-developer-associate-exam>
+Become an AWS Data and DevOps Specialist Kaynak <https://www.linkedin.com/learning/paths/become-an-aws-data-and-devops-specialist>
+Prepare for AWS DevOps Engineer (Professional) Certification Kaynak <https://www.linkedin.com/learning/paths/prepare-for-aws-devops-engineer-professional-certification>
+Prepare for AWS SysOps Administrator Certification  Kaynak <https://www.linkedin.com/learning/paths/prepare-for-aws-sysops-administrator-certification>
+Build Your Knowledge of Cloud Administration Kaynak <https://www.linkedin.com/learning/paths/build-your-knowledge-of-cloud-administration>
+Prepare for the Docker Certified Associate (DCA) Certification Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-docker-certified-associate-dca-certification>
+Become a Docker Administrator Kaynak <https://www.linkedin.com/learning/paths/become-a-docker-administrator>
+Become a DevOps Engineer Kaynak <https://www.linkedin.com/learning/paths/become-a-devops-engineer>
+Master Cloud-Native Infrastructure with Kubernetes Kaynak <https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes>
+
+Developing and Delivering Software with Docker Kaynak <https://www.linkedin.com/learning/paths/developing-and-delivering-software-with-docker>
+
+Become a Test Automation Engineer Kaynak <https://www.linkedin.com/learning/paths/become-a-test-automation-engineer>
+Applying Lean, DevOps, and Agile to Your IT Organization Kaynak <https://www.linkedin.com/learning/paths/applying-lean-devops-and-agile-to-your-it-organization>
+Master Agile Software Development Kaynak <https://www.linkedin.com/learning/paths/master-agile-software-development>
+Improve Your ITIL® Skills Kaynak <https://www.linkedin.com/learning/paths/improve-your-itil-skills>
+Get Ahead in DevSecOps Kaynak <https://www.linkedin.com/learning/paths/get-ahead-in-devsecops>
+Prepare for the Red Hat Certified Engineer (EX294) Exam Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-red-hat-certified-engineer-ex294-exam>
+
+Become a Linux System Administrator Kaynak <https://www.linkedin.com/learning/paths/become-a-linux-system-administrator>
+Prepare for the (ISC)² Systems Security Certified Practitioner (SSCP) Exam Kaynak <https://www.linkedin.com/learning/paths/98c438ba-209d-3990-8fed-4907ae245f10>
+
+Become a Software Project Manager Kaynak <https://www.linkedin.com/learning/paths/become-a-software-project-manager>
+Improve Your Application Security Testing Skills Kaynak <https://www.linkedin.com/learning/paths/improve-your-application-security-testing-skills>
+Improve Your Continuous Delivery Skills Kaynak <https://www.linkedin.com/learning/paths/improve-your-continuous-delivery-skills>
+
+Improve Your Infrastructure Automation with HashiCorp Tools Kaynak <https://www.linkedin.com/learning/paths/improve-your-infrastructure-automation-with-hashicorp-tools>
+
+Prepare for Juniper Networks Certified Associate Routing and Switching (JN0-102) Certification Kaynak <https://www.linkedin.com/learning/paths/prepare-for-juniper-networks-certified-associate-routing-and-switching-jn0-102-certification-3>
+Prepare for the Juniper Networks Certified Associate, Junos (JN0-103) Exam Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-juniper-networks-certified-associate-junos-jn0-103-exam>
+Prepare for the Cisco DevNet Associate Exam Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-cisco-devnet-associate-exam>
+Prepare for the CompTIA Network+ (N10-007) Certification Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-comptia-network-plus-n10-007-certification>
+Become a Network Administrator Kaynak <https://www.linkedin.com/learning/paths/become-a-network-administrator>
+Become a CompTIA Security+ Certified Security Professional CompTIA Certification Kaynak <https://www.linkedin.com/learning/paths/become-a-comptia-security-plus-certified-security-professional>
+Become an IT Security Specialist Kaynak <https://www.linkedin.com/learning/paths/become-an-it-security-specialist>
+Advance Your Skills as a Computer Forensics Specialist Kaynak <https://www.linkedin.com/learning/paths/advance-your-skills-as-a-computer-forensics-specialist>
+Prepare for the LPIC-1 Linux Administrator Exam Kaynak <https://www.linkedin.com/learning/paths/prepare-for-the-lpic-1-linux-administrator-exam>
+
+
+Get Ahead in DevSecOps https://www.linkedin.com/learning/paths/get-ahead-in-devsecops
+
+Get Ahead in DevSecOps Kaynak <https://www.linkedin.com/learning/paths/get-ahead-in-devsecops> 
+Developing and Delivering Software with Docker Kaynak <https://www.linkedin.com/learning/paths/developing-and-delivering-software-with-docker> 
+
+Become a Front-End Web Developer Kaynak <https://www.linkedin.com/learning/paths/become-a-front-end-web-developer> 
+
+Become a Front-End Web Developer Kaynak <https://www.linkedin.com/learning/paths/become-a-front-end-web-developer> 
+
+Master JavaScript Kaynak <https://www.linkedin.com/learning/paths/master-javascript> 
+
+Become a Web Developer Kaynak <https://www.linkedin.com/learning/paths/become-a-web-developer> 
+
+Become a Full-Stack Web Developer Kaynak <https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer> 
+
+Become a Docker Administrator Kaynak <https://www.linkedin.com/learning/paths/become-a-docker-administrator> 
+
+Become a DevOps Engineer Kaynak <https://www.linkedin.com/learning/paths/become-a-devops-engineer> 
+
+Master Cloud-Native Infrastructure with Kubernetes Kaynak <https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes> 
+
